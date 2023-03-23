@@ -33,5 +33,17 @@ void input()
 		cin >> arr[i];
 
 	}
+}
+// Procedur Insertionsort
+void insertionsort()
+{
+
+
+	int temp;	// Membuat variable data temporer atau penyimpanan sementara
+	int j;		// Membuat variable j sebagai tanda
+
+	
+
+
 
 
