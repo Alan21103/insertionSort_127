@@ -83,3 +83,10 @@ void display()
 	cout << endl;
 
 }
+int main()
+{
+	input();	//  Memanggil display
+	insertionsort();	// Memanggil insertionsort
+	display();			// Memanggil display
+
+}
